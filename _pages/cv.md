@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in [Mechanical Engineering](https://cmee.upc.edu.cn/) (Graduation planned for June 2025) at [China University of Petroleum (East China)](https://www.upc.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://cmee.upc.edu.cn/2024/0304/c21292a424244/page.htm).
+I am an integrated undergraduate student (completed my undergraduate and master's degree from freshman to senior year) with a GPA of 3.6. I have a strong interest in vibroacoustics and am working on elastic wave simulation of anisotropic materials, with the aim of completing digital twins for industrialized troubleshooting. Currently, I have published one SCI Q1 (one by my supervisor and two by me). I am looking for a PhD supervisor, if you are interested in me, please contact me!
+📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
+
+❤ Interest
+======
+*   Vibroacoustics
+*   **Sensing & Detection**
+*   **AI & Bionicist Technology**
+*   Digital Twins & Virtual Reality
+
 🎓 Education
 ======
 *   M.Sc. in Mechatronics Engineering, China University of Petroleum (East China), 2023.9 - 2025.6
@@ -38,5 +49,3 @@ Petro & Chemical Equipment.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/deta
 *   **National Scholarship** for the third academic year of undergraduate studies
 *   First Class Academic Scholarship for the second academic year of undergraduate studies
 *   Second Class Academic Scholarship for the first academic year of undergraduate studies
-
-📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
