@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in [Mechanical Engineering](https://cmee.upc.edu.cn/) (Graduation planned for June 2025) at [China University of Petroleum (East China)](https://www.upc.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://cmee.upc.edu.cn/2024/0304/c21292a424244/page.htm).
+您好! 我的名字是李科伟. 正在[中国石油大学(华东)](https://www.upc.edu.cn/)攻读[机械工程硕士](https://cmee.upc.edu.cn/) (计划在2025年6月毕业)， 师从[张立军教授](https://cmee.upc.edu.cn/2024/0304/c21292a424244/page.htm).
+本研一体化学生(大一至大四完成本科与硕士课程), 绩点为3.6. 我对振动声学具有浓厚兴趣, 并且正在做各向异性材料的弹性波仿真, 目的是完成工业化故障诊断的数字孪生. 目前已发表SCI二区TOP一篇(导师一作，本人二作). 正在寻找博导，如果您对我感兴趣，请联系我!
 
 ❤ 研究方向
 ======
@@ -23,7 +24,7 @@ Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in [Me
 
 🛠 技能
 ======
-*   **深度学习** 基于： *KERAS (TENSORFLOW), MATLAB toolbox*
+*   **深度学习** 基于 *KERAS (TENSORFLOW), MATLAB toolbox*
 *   **有限元仿真** (固体力学, 弹性波) 使用软件： *COMSOL, ANSYS, ABQUES*
 *   **信号处理分析** (能量谱, 时频域) 使用软件： *MATLAB, PYTHON, LABVIEW*
 
