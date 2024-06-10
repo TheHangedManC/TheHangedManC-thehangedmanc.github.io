@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*   M.Sc. in Mechatronics Engineering, China University of Petroleum (East China), 2023.9 - 2025.6
+*   B.S. in Mechanical Design and Manufacturing and Automation, China University of Petroleum (East China), 2019.9 - 2023.6
 
-Work experience
+🛠 Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*   **Deep learning** with *KERAS (TENSORFLOW), MATLAB toolbox*
+*   **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABQUES*
+*   **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+📕 Research Papers
+======
+Hosted
+*   Localization of unknown data from anisotropic plates by a single acoustic emission sensor. (Ongoing, upcoming submissions)
+*   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement.* [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
+    ***(First author for the supervisor, second author for me)***
+Participated
+*   L Zhang; H Wang; **K Li**; D Liu; Q Zhang; Z Ma; M Li; W Zhang; X Yin. *Advances in Experimental Methods for Crack Detection in Engineering. Experimental Technology and Management.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2024&filename=SYJL202401001&uniplatform=OVERSEA&v=XIfqTPdfigxVNJux2nWA5a8WlN_ZamEAVhcNyUnUrzkjgxjP_xl1kukTkwvCGurk/)
+*   D Zeng; D Liu; H Wang; **K Li**; Q Zhang; X Zhang; L Zhang. *Fatigue life prediction and finite element analysis of fracturing pump head body based on Ansys Workbench. 
+Petro & Chemical Equipment.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202310002&uniplatform=OVERSEA&v=wpgFIKwFzWgRZ7sLnUgaNvOqTsujcnGnn-0HvIqN0UL7nV_g_RUM8y-apQQtT9NH/)
+*   D Zeng; H Wang; **K Li**; D Liu; Q Zhang; X Zhang; Q He; Y Liu; L Zhang. *Design and development of real-time monitoring system for crack failure of fracturing pump valve box based on acoustic emission technology. Petro & Chemical Equipment.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202308042&uniplatform=OVERSEA&v=wpgFIKwFzWip6EGYSqP5150dxRQddmnclObEpEd-k4a1PjKfDkC10FRCerVnc7uL/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+🏆 Get rewarded
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*   First Class Scholarship for the first year of the Master's programme
+*   **National Scholarship** for the third academic year of undergraduate studies
+*   First Class Academic Scholarship for the second academic year of undergraduate studies
+*   Second Class Academic Scholarship for the first academic year of undergraduate studies
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
