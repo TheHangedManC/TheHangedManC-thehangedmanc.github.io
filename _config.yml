@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kewei Li homepage"
+title                    : "English CV"
 title_separator          : "-"
 name                     : &name "Kewei Li"
 description              : &description "student enrolled in a master's program"
@@ -21,14 +21,14 @@ repository               : "thehangedmanc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "images/me.img"
   name             : "Kewei Li"
   pronouns         : "student enrolled in a master's program"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "China-Shandong-Qingdao"
   employer         : "China University of Petroleum (East China)"
   uri              : # URL
-  email            : "koveylee@gmail.com & 737082326@qq.com" 
+  email            : "koveylee@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=0yVSbmAAAAAJ&hl=zh-CN"
