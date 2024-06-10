@@ -22,22 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Kewei Li"
+  pronouns         : "student enrolled in a master's program"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China-Shandong-Qingdao"
+  employer         : "China University of Petroleum (East China)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "koveylee@gmail.com & 737082326@qq.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=0yVSbmAAAAAJ&hl=zh-CN"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-5261-0989"
+  researchgate     : "https://www.researchgate.net/profile/Kewei-Li-12"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
