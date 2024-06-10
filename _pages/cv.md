@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English CV"
-permalink: /cv/
+permalink: /ecv/
 author_profile: true
 redirect_from:
   - /resume
