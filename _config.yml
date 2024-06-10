@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kewei Li homepage"
 title_separator          : "-"
-name                     : &name "Kewei Lie"
+name                     : &name "Kewei Li"
 description              : &description "student enrolled in a master's program"
 url                      : https://thehangedmanc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
