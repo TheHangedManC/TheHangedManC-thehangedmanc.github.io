@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "English CV"
+title: #"English CV"
 permalink: /ecv/
 author_profile: true
 redirect_from:
