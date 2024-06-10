@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "English CV"
-    url: /ecv/
     
   - title: "中文简历"
     url: /zcv/
