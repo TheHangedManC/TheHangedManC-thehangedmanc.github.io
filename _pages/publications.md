@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in [Mechanical Engineering](https://cmee.upc.edu.cn/) (Graduation planned for June 2025) at [China University of Petroleum (East China)](https://www.upc.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://cmee.upc.edu.cn/2024/0304/c21292a424244/page.htm).
+
+❤ 研究方向
+======
+*   振动声学
+*   **传感与检测**
+*   **人工智能及仿生技术**
+*   数字孪生与虚拟现实技术
+
 🎓 教育
 ======
 *   中国石油大学(华东)机械电子工程学术硕士, 2023.9 - 2025.6
