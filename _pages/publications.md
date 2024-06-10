@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: #"中文简历"
+title: #"简历-中文"
 permalink: /zcv/
 author_profile: true
 ---
