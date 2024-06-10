@@ -38,6 +38,7 @@ Hosted
 *   Localization of unknown data from anisotropic plates by a single acoustic emission sensor. (Ongoing, upcoming submissions)
 *   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement.* [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
     ***(First author for the supervisor, second author for me)***
+
 Participated
 *   L Zhang; H Wang; **K Li**; D Liu; Q Zhang; Z Ma; M Li; W Zhang; X Yin. *Advances in Experimental Methods for Crack Detection in Engineering. Experimental Technology and Management.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2024&filename=SYJL202401001&uniplatform=OVERSEA&v=XIfqTPdfigxVNJux2nWA5a8WlN_ZamEAVhcNyUnUrzkjgxjP_xl1kukTkwvCGurk/)
 *   D Zeng; D Liu; H Wang; **K Li**; Q Zhang; X Zhang; L Zhang. *Fatigue life prediction and finite element analysis of fracturing pump head body based on Ansys Workbench. 
