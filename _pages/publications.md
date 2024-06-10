@@ -21,7 +21,7 @@ author_profile: true
 📕 研究论文
 ======
 主持
-*   Localization of unknown data from anisotropic plates by a single acoustic emission sensor. (Ongoing, upcoming submissions)
+*   各向异性板的未知数据定位——使用单个声发射传感器. (即将提交, 本人一作)
 *   张立军; **李科伟**; 王杭; 刘德昊; 马哲; 张强; 李明; 张伟健; 王晨; 艾蠡. *多模态融合卷积物理信息神经网络：一种提高声发射源平面定位准确性和鲁棒性的方法. Measurement.* [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
     ***(导师一作, 本人二作)***
 参与
