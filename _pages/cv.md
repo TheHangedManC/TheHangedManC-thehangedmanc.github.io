@@ -11,6 +11,7 @@ redirect_from:
 
 Hello! My name is Kewei Li. Currently I am studying for a Master's Degree in [Mechanical Engineering](https://cmee.upc.edu.cn/) (Graduation planned for June 2025) at [China University of Petroleum (East China)](https://www.upc.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://cmee.upc.edu.cn/2024/0304/c21292a424244/page.htm).
 I am an integrated undergraduate student (completed my undergraduate and master's degree from freshman to senior year) with a GPA of 3.6. I have a strong interest in vibroacoustics and am working on elastic wave simulation of anisotropic materials, with the aim of completing digital twins for industrialized troubleshooting. Currently, I have published one SCI Q1 (one by my supervisor and two by me). I am looking for a PhD supervisor, if you are interested in me, please contact me! I would like to receive some level of training prior to enrollment to ensure that I have problem solving skills when I enroll.
+
 📫 How to reach me: <a href='mailto:koveylee@gmail.com'>koveylee@gmail.com</a> | <a href='mailto:737082326@qq.com'>737082326@qq.com</a>
 
 ❤ Interest
