@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "English CV"
+title                    : "CV-EN"
 title_separator          : "-"
 name                     : &name "Kewei Li"
 description              : &description "student enrolled in a master's program"
