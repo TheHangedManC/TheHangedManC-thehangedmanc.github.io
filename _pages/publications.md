@@ -40,7 +40,7 @@ author_profile: true
 其他论文
 *   张立军; 王杭; **李科伟**; 刘德昊; 张强; 马哲; 李明; 张伟健; 殷晓康. *工程领域裂纹检测实验方法的进展. 实验技术与管理.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2024&filename=SYJL202401001&uniplatform=OVERSEA&v=XIfqTPdfigxVNJux2nWA5a8WlN_ZamEAVhcNyUnUrzkjgxjP_xl1kukTkwvCGurk/)
 *   曾德刚; 刘德昊; 王杭; **李科伟**; 张强; 张晓东; 张立军. *基于Ansys Workbench的压裂泵泵头体疲劳寿命预估及有限元分析. 石油和化工设备.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202310002&uniplatform=OVERSEA&v=wpgFIKwFzWgRZ7sLnUgaNvOqTsujcnGnn-0HvIqN0UL7nV_g_RUM8y-apQQtT9NH/)
-*   曾德刚; 王杭; **李科伟**; 刘德昊; 张强; 张晓东; 贺庆强; 刘延鑫; 张立军. *	基于声发射技术的压裂泵阀箱裂纹故障实时监测系统设计与开发. 石油和化工设备.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202308042&uniplatform=OVERSEA&v=wpgFIKwFzWip6EGYSqP5150dxRQddmnclObEpEd-k4a1PjKfDkC10FRCerVnc7uL/)
+*   曾德刚; 王杭; **李科伟**; 刘德昊; 张强; 张晓东; 贺庆强; 刘延鑫; 张立军. *基于声发射技术的压裂泵阀箱裂纹故障实时监测系统设计与开发. 石油和化工设备.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202308042&uniplatform=OVERSEA&v=wpgFIKwFzWip6EGYSqP5150dxRQddmnclObEpEd-k4a1PjKfDkC10FRCerVnc7uL/)
 
 🏆 获得奖励
 ======
