@@ -12,9 +12,9 @@ title                    : "CV-EN"
 title_separator          : "-"
 name                     : &name "Kewei Li"
 description              : &description "student enrolled in a master's program"
-url                      : https://thehangedmanc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.kewei-li.top/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thehangedmanc.github.io"
+repository               : "kewei-li.top"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
