@@ -45,7 +45,7 @@ author_profile: true
 🏆 获得奖励
 ======
 *   硕士第一学年一等奖学金
-*   本科第三学年**国家奖学金**
+*   本科第三学年[**国家奖学金**](http://thehangedmanc.github.io/files/nation.png)
 *   本科第二学年一等奖学金
 *   本科第一学年二等奖学金
 
