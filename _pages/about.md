@@ -48,6 +48,6 @@ Petro & Chemical Equipment.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/deta
 🏆 Get rewarded
 ======
 *   First Class Scholarship for the first year of the Master's programme
-*   **National Scholarship** for the third academic year of undergraduate studies
+*   [**National Scholarship**](http://thehangedmanc.github.io/_pages/nation.png) for the third academic year of undergraduate studies
 *   First Class Academic Scholarship for the second academic year of undergraduate studies
 *   Second Class Academic Scholarship for the first academic year of undergraduate studies
