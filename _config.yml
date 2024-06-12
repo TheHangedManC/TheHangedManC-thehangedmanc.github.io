@@ -12,7 +12,7 @@ title                    : "CV-EN"
 title_separator          : "-"
 name                     : &name "Kewei Li"
 description              : &description "student enrolled in a master's program"
-url                      : https://www.kewei-li.top/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kewei-li.top/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kewei-li.top"
 
