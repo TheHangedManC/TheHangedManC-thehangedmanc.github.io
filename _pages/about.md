@@ -40,6 +40,7 @@ Main papers
     ***(First author for the supervisor, second author for me)***
 
 Other papers
+*   L Zhang; Z Ma; J Zhou; **K Li**; M Li; H Wang; Q Zhang; C Wang; K Lu. *A Multi-scale Convolutional Hybrid Attention Residual Network for Enhancing Underwater Image and Identifying Underwater Multi-scene Sea Cucumber. IEEE Robotics and Automation.* (Under review)
 *   L Zhang; H Wang; **K Li**; D Liu; Q Zhang; Z Ma; M Li; W Zhang; X Yin. *Advances in Experimental Methods for Crack Detection in Engineering. Experimental Technology and Management.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2024&filename=SYJL202401001&uniplatform=OVERSEA&v=XIfqTPdfigxVNJux2nWA5a8WlN_ZamEAVhcNyUnUrzkjgxjP_xl1kukTkwvCGurk/)
 *   D Zeng; D Liu; H Wang; **K Li**; Q Zhang; X Zhang; L Zhang. *Fatigue life prediction and finite element analysis of fracturing pump head body based on Ansys Workbench. 
 Petro & Chemical Equipment.* [DOI](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HSFF202310002&uniplatform=OVERSEA&v=wpgFIKwFzWgRZ7sLnUgaNvOqTsujcnGnn-0HvIqN0UL7nV_g_RUM8y-apQQtT9NH/)
