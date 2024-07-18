@@ -26,6 +26,10 @@ I am an integrated undergraduate student (completed my undergraduate and master'
 *   M.Sc. in Mechatronics Engineering, China University of Petroleum (East China), 2023.9 - 2025.6
 *   B.S. in Mechanical Design and Manufacturing and Automation, China University of Petroleum (East China), 2019.9 - 2023.6
 
+💻 Work
+======
+*   Internship: Unpaid internship at the University of South Carolina College of Engineering and Computing, 2024.7.15 - 2024.9.1
+
 🛠 Skills
 ======
 *   **Deep learning** with *KERAS (TENSORFLOW), MATLAB toolbox*
