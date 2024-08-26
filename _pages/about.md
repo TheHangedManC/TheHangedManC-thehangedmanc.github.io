@@ -39,7 +39,7 @@ I am an integrated undergraduate student (completed my undergraduate and master'
 📕 Research Papers
 ======
 Main papers
-*   **K Li**#; H Wang#; L Zhang; Z Ma; W Zhang; H Li; M Li; L Ai. *Simulated-real data mapping: an AE unseen signal generation method for CFRP plate defects.* (submited to journal)
+*   **K Li**#; H Wang#; L Zhang; Z Ma; W Zhang; H Li; M Li; L Ai. *Simulated-real data mapping: an AE unseen signal generation method for CFRP plate defects.* ***(submited to journal)***
 *   L Zhang; **K Li**; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; L Ai. *MFC-PINN: A method to improve the accuracy and robustness of acoustic emission source planar localization. Measurement.* [DOI](https://www.sciencedirect.com/science/article/pii/S0263224124008807/)
     ***(First author for the supervisor, second author for me)***
 
