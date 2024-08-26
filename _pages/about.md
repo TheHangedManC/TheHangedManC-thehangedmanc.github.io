@@ -28,7 +28,7 @@ I am an integrated undergraduate student (completed my undergraduate and master'
 
 💻 Work
 ======
-*   Internship: [Unpaid internship at the University of South Carolina College of Engineering and Computing](http://thehangedmanc.github.io/files/grades.pdf), 2024.7.15 - 2024.9.1
+*   Internship: [Unpaid internship at the University of South Carolina College of Engineering and Computing](http://thehangedmanc.github.io/files/Offer letter_summer intern1.pdf), 2024.7.15 - 2024.9.1
 
 🛠 Skills
 ======
