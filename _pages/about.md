@@ -33,7 +33,7 @@ I am an integrated undergraduate student (completed my undergraduate and master'
 🛠 Skills
 ======
 *   **Deep learning** with *KERAS (TENSORFLOW), MATLAB toolbox*
-*   **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABQUES*
+*   **Finite element simulation** (solid mechanics, elastic waves) using *COMSOL, ANSYS, ABAQUS*
 *   **Signal processing and analysis** via *MATLAB, PYTHON, LABVIEW*
 
 📕 Research Papers
