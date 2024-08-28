@@ -31,7 +31,7 @@ author_profile: true
 🛠 技能
 ======
 *   **深度学习** 基于 *KERAS (TENSORFLOW), MATLAB toolbox*
-*   **有限元仿真** (固体力学, 弹性波) 使用软件： *COMSOL, ANSYS, ABQUES*
+*   **有限元仿真** (固体力学, 弹性波) 使用软件： *COMSOL, ANSYS, ABAQUS*
 *   **信号处理分析** (能量谱, 时频域) 使用软件： *MATLAB, PYTHON, LABVIEW*
 
 📕 研究论文
